@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![D3fau4's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3fau4&count_private=true&show_icons=true&theme=radical)
+
 <!--
 **D3fau4/D3fau4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
