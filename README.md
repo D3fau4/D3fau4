@@ -1,4 +1,8 @@
-### Hi there 👋
+### ¡Buenas! 👋
+
+Me llamo Raúl Álvarez y soy desarrollador de aplicaciones multiplataforma con conocimientos en distintos lenguajes de programación como: C#, Java, Python, PHP, JavaScript, entre otros.
+
+##
 
 ![D3fau4's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3fau4&count_private=true&show_icons=true&theme=radical)
 
