@@ -6,7 +6,7 @@ Me llamo Raúl Álvarez y soy desarrollador de aplicaciones multiplataforma con 
 
 ![D3fau4's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3fau4&count_private=true&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3fau4&layout=compact&theme=radical)](https://github.com/DarkMatterCore)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3fau4&layout=compact&theme=radical)](https://github.com/D3fau4)
 <!--
 **D3fau4/D3fau4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
